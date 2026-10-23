@@ -1,0 +1,11 @@
+{
+  "name": "study-design-skills",
+  "description": "Biomedical study design skill for Table 1, flowcharts, journal fit, and top-journal benchmarking, use 9 steps clinical workflow for triage, validate, render, report-compliance audit, Cochrane evidence benchmark.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Xiaolei Zhu",
+    "email": "xiaolei.zhu@bayer.com"
+  },
+  "keywords": ["skill"],
+  "skills": "./skills"          // optional, custom skills dir
+}
